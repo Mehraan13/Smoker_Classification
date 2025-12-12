@@ -1,0 +1,36 @@
+LOGISTIC REGRESSION
+============================================================
+              precision    recall  f1-score   support
+
+  Non-Smoker     0.8860    0.6297    0.7362      3665
+      Smoker     0.5628    0.8547    0.6787      2044
+
+    accuracy                         0.7103      5709
+   macro avg     0.7244    0.7422    0.7075      5709
+weighted avg     0.7703    0.7103    0.7156      5709
+
+
+SUPPORT VECTOR MACHINE
+============================================================
+              precision    recall  f1-score   support
+
+  Non-Smoker     0.8302    0.7165    0.7692      3665
+      Smoker     0.5919    0.7373    0.6566      2044
+
+    accuracy                         0.7239      5709
+   macro avg     0.7111    0.7269    0.7129      5709
+weighted avg     0.7449    0.7239    0.7289      5709
+
+
+NEURAL NETWORK
+============================================================
+              precision    recall  f1-score   support
+
+  Non-Smoker     0.8663    0.6963    0.7720      3665
+      Smoker     0.5972    0.8072    0.6865      2044
+
+    accuracy                         0.7360      5709
+   macro avg     0.7317    0.7518    0.7293      5709
+weighted avg     0.7699    0.7360    0.7414      5709
+
+
